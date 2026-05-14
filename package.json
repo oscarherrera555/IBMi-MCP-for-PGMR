@@ -1,5 +1,5 @@
 {
-  "name": "pub400-ibmi-mcp",
+  "name": "ibmi-mcp-for-pgmr",
   "version": "1.0.0",
   "description": "PUB400 IBM i MCP Server — Comprehensive MCP for PUB400.COM public IBM i systems",
   "type": "module",
